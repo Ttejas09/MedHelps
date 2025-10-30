@@ -2,8 +2,6 @@
 
 A full-stack web application designed to assist with medical or healthcare needs.
 
-*(Please add a more detailed 1-2 sentence description of your project here.)*
-
 ## Table of Contents
 
 -   [About The Project](#about-the-project)
