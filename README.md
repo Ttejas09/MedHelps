@@ -35,7 +35,7 @@ This project is built with a modern, full-stack architecture:
     -   [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 -   **Backend:**
     -   [Python](https://www.python.org/)
-    -   *(Please list Python frameworks used, e.g., Flask, Django, FastAPI)*
+    -   Flask
 
 ## Project Structure
 
@@ -115,7 +115,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-*(If you don't have a `LICENSE.txt` file, you should add one. The [MIT License](https://choosealicense.com/licenses/mit/) is a good and simple choice.)*
 
 ## Contact
 
